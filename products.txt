@@ -1,0 +1,7 @@
+stock_no	pname	pdesc	supplier	supp_itemno
+FV459AS	Sm Gala Apples	red crispy apples	Apple Tree Farms	ATF001
+FV861AF	Fuji Apples	tasty fuji apples	Apple Tree Farms	ATF002
+FV339AS	Gala Apples	red crispy apples	Sarahs Orchard		SOR001
+FV481BF	Blueberries	1 pint, fresh	Sarahs Orchard		SOR002
+FV577GF	Seedless Grapes	green grapes	Fresh Importers		FIM184
+FV284RS	Lg Grapefruit	large grapefruit	Fresh Importers		FIM319

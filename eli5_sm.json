@@ -1,0 +1,1152 @@
+[
+    [
+        "j2pag",
+        {
+            "id": "j2pag",
+            "score": 21,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2pag/can_someone_explain_to_me_what_a_tax_bracket_is/",
+            "title": [
+                "Can someone explain to me what a tax bracket is ?",
+                []
+            ],
+            "selftext": [
+                "I hear the term all the time in money speak but idk what it is , help me out reddit ?",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n7ej",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 6,
+                    "body": [
+                        "A tax bracket says the percentage of your income that is taken as income tax when you 're earning a given amount . So , for example , it might be ( taken from the Australian tax scheme ) : * 0 - $ 6,000 : Nil * $ 6,001 - $ 37,000 : 15c for each $ 1 over $ 6,000 * $ 37,001 - $ 80,000 : $ 4,650 plus 30c for each $ 1 over $ 37,000 * $ 80,001 - $ 180,000 : $ 17,550 plus 37c for each $ 1 over $ 80,000 * $ 180,001 and over : $ 54,550 plus 45c for each $ 1 over $ 180,000 One thing to note here is that each bracket gets applied in turn . If you look at the $ 80,001 - $ 180,000 bracket , you 'll notice that it says \" $ 17,550 plus 37c for each $ 1 over $ 80,000 \" . This is because $ 17,550 is what you would have owed from the previous tax brackets if you earned $ 80,000 . Generally speaking , you are said to be ' in ' your highest tax bracket , as that informs how much of every extra dollar you earn will be taken in tax . As an example to see how much tax you 'd pay in this , assume that you earn $ 70,000 . From the previous brackets , you 'd pay $ 4650 . Then from the current bracket , you 'd pay ( 70,000 - 37,000 ) * 0.3 = $ 9900 . So your total income tax on $ 70,000 would be $ 4650+$9900=$14,550 .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7fp",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 6,
+                    "body": [
+                        "There are four categories of tax brackets in the United States : Single , Married filing jointly , Married filing separately ( same bracket as single for each spouse ) , and head of household . Married filing jointly provides the best tax bracket , and each category will have different dollar amounts for the tax brackets . I 'll provide the single tax bracket : * 10 % - $ 0 - 8,500 * 15 % - 8,501- 34,500 * 25 % - 34,501 - 83,600 * 28 % - 83,601 - 174,400 * 33 % - 174,401 - 379,150 * 35 % - $ 379,150 + For example . If you make $ 50,000 per year , the first $ 8,500 is taxed at 10 % ; all income between $ 8,501 - 34,500 is taxed at 15 % ; all income between $ 34,501 - $ 50,000 will then be taxed at 25 % . So if you calculate that , your tax bill ( ignoring credits and deductions ) will be $ 8,625 . Edit : four categories , not three",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7ej",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 6,
+                    "body": [
+                        "A tax bracket says the percentage of your income that is taken as income tax when you 're earning a given amount . So , for example , it might be ( taken from the Australian tax scheme ) : * 0 - $ 6,000 : Nil * $ 6,001 - $ 37,000 : 15c for each $ 1 over $ 6,000 * $ 37,001 - $ 80,000 : $ 4,650 plus 30c for each $ 1 over $ 37,000 * $ 80,001 - $ 180,000 : $ 17,550 plus 37c for each $ 1 over $ 80,000 * $ 180,001 and over : $ 54,550 plus 45c for each $ 1 over $ 180,000 One thing to note here is that each bracket gets applied in turn . If you look at the $ 80,001 - $ 180,000 bracket , you 'll notice that it says \" $ 17,550 plus 37c for each $ 1 over $ 80,000 \" . This is because $ 17,550 is what you would have owed from the previous tax brackets if you earned $ 80,000 . Generally speaking , you are said to be ' in ' your highest tax bracket , as that informs how much of every extra dollar you earn will be taken in tax . As an example to see how much tax you 'd pay in this , assume that you earn $ 70,000 . From the previous brackets , you 'd pay $ 4650 . Then from the current bracket , you 'd pay ( 70,000 - 37,000 ) * 0.3 = $ 9900 . So your total income tax on $ 70,000 would be $ 4650+$9900=$14,550 .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7fp",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 6,
+                    "body": [
+                        "There are four categories of tax brackets in the United States : Single , Married filing jointly , Married filing separately ( same bracket as single for each spouse ) , and head of household . Married filing jointly provides the best tax bracket , and each category will have different dollar amounts for the tax brackets . I 'll provide the single tax bracket : * 10 % - $ 0 - 8,500 * 15 % - 8,501- 34,500 * 25 % - 34,501 - 83,600 * 28 % - 83,601 - 174,400 * 33 % - 174,401 - 379,150 * 35 % - $ 379,150 + For example . If you make $ 50,000 per year , the first $ 8,500 is taxed at 10 % ; all income between $ 8,501 - 34,500 is taxed at 15 % ; all income between $ 34,501 - $ 50,000 will then be taxed at 25 % . So if you calculate that , your tax bill ( ignoring credits and deductions ) will be $ 8,625 . Edit : four categories , not three",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n4xf",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 2,
+                    "body": [
+                        "When declaring your income while doing your taxes , a \" Tax Bracket \" helps the government know which % of tax you owe based off of said income .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n5qf",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 2,
+                    "body": [
+                        "The government taxes your income based on a percentage of how much you make . If you make more money , the government takes a larger percentage of your pay . How does it know how much to take ? It groups people into ' tax brackets ' based on how much you earn . For example , if you make , say , between 10,000 and 30,000 , government takes 20 % . If you make 30001 - 50000 , government takes 25 % etc . etc . I hope this answers your question , and sorry if i 'm completely off . I\"m not IRS agent .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n5yg",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 2,
+                    "body": [
+                        "As you have higher income , you pay more and more \" marginal income \" in taxes . Your bracket is the highest marginal rate . So one person might bay 0 % on the first 10k and 10 % on the , for a total of $ 1000 in taxes out of 20k in income . Someone making 30k is in a higher bracket , so they might pay 20 % of the next 10k they make , which means they 'll pay $ 3000 in taxes on a 30k income . does that help ?",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7nx",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 2,
+                    "body": [
+                        "So let 's say your taxable income was $ 100,000 . The first $ 8,735 of that income will be taxed at a rate of 10 % . Your income from $ 8,376 to $ 34,000 will be taxed at a rate of 15 % . This goes on until you reach the highest tax bracket that your income reaches . The system is set up this way so that someone just barely slipping into a higher tax rate does n't suddenly pay much higher taxes .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n4xf",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 2,
+                    "body": [
+                        "When declaring your income while doing your taxes , a \" Tax Bracket \" helps the government know which % of tax you owe based off of said income .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n5qf",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 2,
+                    "body": [
+                        "The government taxes your income based on a percentage of how much you make . If you make more money , the government takes a larger percentage of your pay . How does it know how much to take ? It groups people into ' tax brackets ' based on how much you earn . For example , if you make , say , between 10,000 and 30,000 , government takes 20 % . If you make 30001 - 50000 , government takes 25 % etc . etc . I hope this answers your question , and sorry if i 'm completely off . I\"m not IRS agent .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n5yg",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 2,
+                    "body": [
+                        "As you have higher income , you pay more and more \" marginal income \" in taxes . Your bracket is the highest marginal rate . So one person might bay 0 % on the first 10k and 10 % on the , for a total of $ 1000 in taxes out of 20k in income . Someone making 30k is in a higher bracket , so they might pay 20 % of the next 10k they make , which means they 'll pay $ 3000 in taxes on a 30k income . does that help ?",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7nx",
+                    "link_id": "t3_j2pag",
+                    "parent_id": "t3_j2pag",
+                    "score": 2,
+                    "body": [
+                        "So let 's say your taxable income was $ 100,000 . The first $ 8,735 of that income will be taxed at a rate of 10 % . Your income from $ 8,376 to $ 34,000 will be taxed at a rate of 15 % . This goes on until you reach the highest tax bracket that your income reaches . The system is set up this way so that someone just barely slipping into a higher tax rate does n't suddenly pay much higher taxes .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2p92",
+        {
+            "id": "j2p92",
+            "score": 21,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2p92/li5_can_you_please_explain_to_me_what_exactly_the/",
+            "title": [
+                "[ LI5 ] Can you please explain to me what exactly the Patriot Act lets the government do ?",
+                []
+            ],
+            "selftext": [
+                "",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n7u2",
+                    "link_id": "t3_j2p92",
+                    "parent_id": "t3_j2p92",
+                    "score": 6,
+                    "body": [
+                        "The patriot act ( more or less ) lets the government do anything it likes by changing what the government can do in a state of emergency , and by having the nation permanently in a state of emergency . So long as we have wars on ( either abroad , or domestic ' wars on terror ) then the country is regarded as being in this state . In such case , various civil liberties can be temporarily ( or permanently ) removed or superseded under laws intended to protect the country in a state of emergency . Of course this makes it very open to abuse if the country is permanently in such a state .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7u2",
+                    "link_id": "t3_j2p92",
+                    "parent_id": "t3_j2p92",
+                    "score": 6,
+                    "body": [
+                        "The patriot act ( more or less ) lets the government do anything it likes by changing what the government can do in a state of emergency , and by having the nation permanently in a state of emergency . So long as we have wars on ( either abroad , or domestic ' wars on terror ) then the country is regarded as being in this state . In such case , various civil liberties can be temporarily ( or permanently ) removed or superseded under laws intended to protect the country in a state of emergency . Of course this makes it very open to abuse if the country is permanently in such a state .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2p84",
+        {
+            "id": "j2p84",
+            "score": 19,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2p84/world_war_2_explain_like_im_5/",
+            "title": [
+                "World War 2 . Explain like I 'm 5 .",
+                []
+            ],
+            "selftext": [
+                "Who what where and most importantly , why ?",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n9fd",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 8,
+                    "body": [
+                        "After WW1 , Germany was incredibly poor due to money they agreed to pay the countries they fought . Hitler used this to gain a following by preaching pride in an indepent germany ( nationalism ) and helping the poor ( socialism , hence the Nazi : national socialist party ) . He grew incredibly popular , putting the entire workforce of Germany to work , and revolutionizing their industry and infrastructure . Then he decided Germany was n't enough , and took over a few countries . England demanded they stop , and Hitler agreed . Then he continued his conquest of Europe ( blitzkrieg ) . England had enough and went to war , but were eventually beaten back to their island , where the conflict became focused on aerial plane dogfights . England eventually won these . Meanwhile , Hitler had made a pact with Stalin to split up Poland . However , he betrayed him and attacked Russia , making great advances towards Moscow . Meanwhile , Japan attacked Pearl Harbour to neutralize the American navy and attack islands in the pacific . The US joined the war , sent marines to fight in the pacific , and their army to Europe . Then came D Day . US , UK and Canadian forces launched a major offensive into Europe , starting in France and advancing towards Berlin . The Russian army did the same thing , and started fighting back against Germany , until they eventually reached Berlin and declared victory over Germany . However , Japan and the US were still at war . To end it quickly , the US dropped the atomic bomb . That 's an EXTREMELY vague and probably slightly inaccurate summary of WW2 .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n9fd",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 8,
+                    "body": [
+                        "After WW1 , Germany was incredibly poor due to money they agreed to pay the countries they fought . Hitler used this to gain a following by preaching pride in an indepent germany ( nationalism ) and helping the poor ( socialism , hence the Nazi : national socialist party ) . He grew incredibly popular , putting the entire workforce of Germany to work , and revolutionizing their industry and infrastructure . Then he decided Germany was n't enough , and took over a few countries . England demanded they stop , and Hitler agreed . Then he continued his conquest of Europe ( blitzkrieg ) . England had enough and went to war , but were eventually beaten back to their island , where the conflict became focused on aerial plane dogfights . England eventually won these . Meanwhile , Hitler had made a pact with Stalin to split up Poland . However , he betrayed him and attacked Russia , making great advances towards Moscow . Meanwhile , Japan attacked Pearl Harbour to neutralize the American navy and attack islands in the pacific . The US joined the war , sent marines to fight in the pacific , and their army to Europe . Then came D Day . US , UK and Canadian forces launched a major offensive into Europe , starting in France and advancing towards Berlin . The Russian army did the same thing , and started fighting back against Germany , until they eventually reached Berlin and declared victory over Germany . However , Japan and the US were still at war . To end it quickly , the US dropped the atomic bomb . That 's an EXTREMELY vague and probably slightly inaccurate summary of WW2 .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n4ty",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 3,
+                    "body": [
+                        "WW2 does n't make sense without WW1 . At the end of that , Germany was a big loser , and France wanted massive amounts of money out of Germany to pay for the war 's damage . ( WW1 was the first war with really modern weapons like chemicals and such - really horrific , esp in the trenches ) Well , Germany fell to the influence of Facists led by Adolf Hitler , who democratically took over the premiership of the country and then seized power as a dictator . He made plans to take was was \" rightfully Germany 's \" and started being really expansionist , using strong technology and modern warfare methods like a \" lightning strike \" to take out countries REALLY fast . A few countries joined Germany , and then many others freaked out and intervened .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nhex",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 3,
+                    "body": [
+                        "* * PLAYERS * * Allies : * UK * France * USA * Russia * China ... and others ( including Canada , Australia , and New Zealand ) . Axis : * Germany * Japan * Italy * * TIMELINE * * 1918 - Germany Loses WW1 and has to pay everyone a lot of money . They become super poor super fast . Everyone in Germany is sad . 1933 - Hitler comes to power by making Germany great again ( Germans are happy and Germany starts prospering ) 1939 - Germany invades Poland ( causing allies to declare war on Germany , but not USA or Russia ) 1941 - Japanese bomb Pearl Harbor ( USA declares war on Axis ) 1941 - Germany attacks Russia ( causing it to side with the Allies ) 1945 - Allies beats Italy and Germany ( V - E day ) and Japan ( V - J day ) * * PEOPLE * * Adolf Hitler - German Leader Franklin D. Roosevelt - American President Winston Churchill - British Prime Minister Emperor Hirohito - Japanese Emperor * * OUTCOME * * Allies won , but let Axis nations off somewhat easier than WW1 , lest they start a WW3 . * * SOURCES * * URL_0 Wikipedia",
+                        [
+                            "http://www.historyplace.com/worldwar2/timeline/ww2time.htm"
+                        ]
+                    ]
+                },
+                {
+                    "id": "c28n4ty",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 3,
+                    "body": [
+                        "WW2 does n't make sense without WW1 . At the end of that , Germany was a big loser , and France wanted massive amounts of money out of Germany to pay for the war 's damage . ( WW1 was the first war with really modern weapons like chemicals and such - really horrific , esp in the trenches ) Well , Germany fell to the influence of Facists led by Adolf Hitler , who democratically took over the premiership of the country and then seized power as a dictator . He made plans to take was was \" rightfully Germany 's \" and started being really expansionist , using strong technology and modern warfare methods like a \" lightning strike \" to take out countries REALLY fast . A few countries joined Germany , and then many others freaked out and intervened .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nhex",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 3,
+                    "body": [
+                        "* * PLAYERS * * Allies : * UK * France * USA * Russia * China ... and others ( including Canada , Australia , and New Zealand ) . Axis : * Germany * Japan * Italy * * TIMELINE * * 1918 - Germany Loses WW1 and has to pay everyone a lot of money . They become super poor super fast . Everyone in Germany is sad . 1933 - Hitler comes to power by making Germany great again ( Germans are happy and Germany starts prospering ) 1939 - Germany invades Poland ( causing allies to declare war on Germany , but not USA or Russia ) 1941 - Japanese bomb Pearl Harbor ( USA declares war on Axis ) 1941 - Germany attacks Russia ( causing it to side with the Allies ) 1945 - Allies beats Italy and Germany ( V - E day ) and Japan ( V - J day ) * * PEOPLE * * Adolf Hitler - German Leader Franklin D. Roosevelt - American President Winston Churchill - British Prime Minister Emperor Hirohito - Japanese Emperor * * OUTCOME * * Allies won , but let Axis nations off somewhat easier than WW1 , lest they start a WW3 . * * SOURCES * * URL_0 Wikipedia",
+                        [
+                            "http://www.historyplace.com/worldwar2/timeline/ww2time.htm"
+                        ]
+                    ]
+                },
+                {
+                    "id": "c28n7nm",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 2,
+                    "body": [
+                        "Start here with [ WW1 : the Simple Version ] ( URL_2 ) Then look here for [ WW2 : the Simple Version ] ( URL_0 ) Why not ? I 'll toss in [ the Cold War ] ( URL_1 ) too",
+                        [
+                            "http://angusmcleod.deviantart.com/art/World-War-Two-Simple-Version-73625561",
+                            "http://angusmcleod.deviantart.com/art/Cold-War-Simple-Version-189698383",
+                            "http://angusmcleod.deviantart.com/art/World-War-One-Simple-Version-128505446"
+                        ]
+                    ]
+                },
+                {
+                    "id": "c28ne4g",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 2,
+                    "body": [
+                        "After WWI the many peace treaties were signed . These treaties left Germany very unhappy , blaming it for \" starting the war \" . Importantly , Germany was not present at the signings . Germany was forced to pay off the money spent on the wars . This , along with the fact that Germany had the most powerful military at the time , humiliated and crippled the country . When the depression rolled around , leaders like Hitler took power , stating that they 'd repel the depression and bring the failing country back to prosperity and power . And to an extent , he did . Fascism in Italy rose to power on similar means . Gradually , Hitler took more and more power , expanding the military past limits set by the treaties from WWI without much notice . Germany then invaded the Sudetenland ( around Czechoslovakia and nearby countries ) . Britain and France , who were weary from WWI and afraid of war , allowed Germany to keep the conquered land as long as they did not instigate any more wars . Meanwhile , Japan was gathering power , invading China and attacking and defeating the Russians . Countries such as Italy , Hungary , and Japan formed alliances with Germany , creating the Axis powers . Likewise , countries such as the US , Britain , and France formed the Allied powers . Hitler continues to increase the power of his military , gradually pushing the limit to see if Britain / France react . Italy also invades Ethiopia . They do n't , because they 're afraid of conflict . Once Hitler takes Poland , France and Britain realize that Hitler 's promises were worthless . They begin talking with Stalin , because of Russia 's strategic position : France / Britain to Germany 's south and west , and Russia to the north , resulting in a two - front war . Hitler does n't want this and signs a non - aggression act with Russia . Russia is no longer on the side of Britain and France , like in WWI . At the same time , Japan attempts to create a new Asian order , having taken over China and Manchuria . Germany takes France and begins bombing Britain . An overconfident Hitler attempts to invade the Soviets , breaking the non - aggression pact signed earlier . However , Hitler 's armies die from the cold . The ambitious Japanese attack Pearl Harbor , with the intention of weakening them and keeping the out of the war , and therefore Japan 's oil acquisition . This has the opposite effect , however , and the previously isolationist USA is angered and the USA declares war and joins the Allied forces . Allied forces take back Africa and move north , eventually taking back France ( D - Day ) . The Soviets , also with the Allies due to Hitler breaking his promise , occupy Ukraine , and soon Warsaw . With the Russians approaching from the north , and other Allies approaching from the south , Hitler commits suicide . A week later , Germany surrenders . The US uses an island - hopping technique in the Pacific to reach Japan . Roosevelt dies , Truman moves in and finds out about the Manhattan project . He makes the decision to drop two nuclear weapons on Japan . Japan surrenders , and the war ends . The world enters the nuclear age , and the cold war .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7nm",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 2,
+                    "body": [
+                        "Start here with [ WW1 : the Simple Version ] ( URL_2 ) Then look here for [ WW2 : the Simple Version ] ( URL_1 ) Why not ? I 'll toss in [ the Cold War ] ( URL_0 ) too",
+                        [
+                            "http://angusmcleod.deviantart.com/art/Cold-War-Simple-Version-189698383",
+                            "http://angusmcleod.deviantart.com/art/World-War-Two-Simple-Version-73625561",
+                            "http://angusmcleod.deviantart.com/art/World-War-One-Simple-Version-128505446"
+                        ]
+                    ]
+                },
+                {
+                    "id": "c28ne4g",
+                    "link_id": "t3_j2p84",
+                    "parent_id": "t3_j2p84",
+                    "score": 2,
+                    "body": [
+                        "After WWI the many peace treaties were signed . These treaties left Germany very unhappy , blaming it for \" starting the war \" . Importantly , Germany was not present at the signings . Germany was forced to pay off the money spent on the wars . This , along with the fact that Germany had the most powerful military at the time , humiliated and crippled the country . When the depression rolled around , leaders like Hitler took power , stating that they 'd repel the depression and bring the failing country back to prosperity and power . And to an extent , he did . Fascism in Italy rose to power on similar means . Gradually , Hitler took more and more power , expanding the military past limits set by the treaties from WWI without much notice . Germany then invaded the Sudetenland ( around Czechoslovakia and nearby countries ) . Britain and France , who were weary from WWI and afraid of war , allowed Germany to keep the conquered land as long as they did not instigate any more wars . Meanwhile , Japan was gathering power , invading China and attacking and defeating the Russians . Countries such as Italy , Hungary , and Japan formed alliances with Germany , creating the Axis powers . Likewise , countries such as the US , Britain , and France formed the Allied powers . Hitler continues to increase the power of his military , gradually pushing the limit to see if Britain / France react . Italy also invades Ethiopia . They do n't , because they 're afraid of conflict . Once Hitler takes Poland , France and Britain realize that Hitler 's promises were worthless . They begin talking with Stalin , because of Russia 's strategic position : France / Britain to Germany 's south and west , and Russia to the north , resulting in a two - front war . Hitler does n't want this and signs a non - aggression act with Russia . Russia is no longer on the side of Britain and France , like in WWI . At the same time , Japan attempts to create a new Asian order , having taken over China and Manchuria . Germany takes France and begins bombing Britain . An overconfident Hitler attempts to invade the Soviets , breaking the non - aggression pact signed earlier . However , Hitler 's armies die from the cold . The ambitious Japanese attack Pearl Harbor , with the intention of weakening them and keeping the out of the war , and therefore Japan 's oil acquisition . This has the opposite effect , however , and the previously isolationist USA is angered and the USA declares war and joins the Allied forces . Allied forces take back Africa and move north , eventually taking back France ( D - Day ) . The Soviets , also with the Allies due to Hitler breaking his promise , occupy Ukraine , and soon Warsaw . With the Russians approaching from the north , and other Allies approaching from the south , Hitler commits suicide . A week later , Germany surrenders . The US uses an island - hopping technique in the Pacific to reach Japan . Roosevelt dies , Truman moves in and finds out about the Manhattan project . He makes the decision to drop two nuclear weapons on Japan . Japan surrenders , and the war ends . The world enters the nuclear age , and the cold war .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2p7s",
+        {
+            "id": "j2p7s",
+            "score": 10,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2p7s/please_explain_to_me_like_im_five_how_the_heck/",
+            "title": [
+                "Please explain to me ( like I 'm five ) how the heck vinyl records and cassette tapes were used to make albums .",
+                []
+            ],
+            "selftext": [
+                "It 's almost easier to understand how everything is managed digitally nowadays .",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n6en",
+                    "link_id": "t3_j2p7s",
+                    "parent_id": "t3_j2p7s",
+                    "score": 2,
+                    "body": [
+                        "vinyl records were made with tiny grooves in them , the needle on turn tables fits into this groove and as the record spins , the needle follows the groove . The groove is n't perfectly curved though , and as the needle moves through the groove , it fluctuates ( moves back and forth ) This movement is then interpreted by the record player and converted into a sound . As for cassette tapes , they worked using magnetic tape that was picked up somehow , not so sure on that one .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n6en",
+                    "link_id": "t3_j2p7s",
+                    "parent_id": "t3_j2p7s",
+                    "score": 2,
+                    "body": [
+                        "vinyl records were made with tiny grooves in them , the needle on turn tables fits into this groove and as the record spins , the needle follows the groove . The groove is n't perfectly curved though , and as the needle moves through the groove , it fluctuates ( moves back and forth ) This movement is then interpreted by the record player and converted into a sound . As for cassette tapes , they worked using magnetic tape that was picked up somehow , not so sure on that one .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2p57",
+        {
+            "id": "j2p57",
+            "score": 13,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2p57/why_is_cannabis_illegal_explain_like_im_5/",
+            "title": [
+                "Why is cannabis illegal ? Explain like i 'm 5 .",
+                []
+            ],
+            "selftext": [
+                "",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n5bs",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 7,
+                    "body": [
+                        "I believe it was a combination of non - white people having fun with drugs , and companies that manufacture products that could be produced cheaper and more efficiently with hemp ( like paper , and fabrics , and whatnot ) were jealous of the competition and pushed for it .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n5bs",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 7,
+                    "body": [
+                        "I believe it was a combination of non - white people having fun with drugs , and companies that manufacture products that could be produced cheaper and more efficiently with hemp ( like paper , and fabrics , and whatnot ) were jealous of the competition and pushed for it .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7pb",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 5,
+                    "body": [
+                        "Because it 's a mind altering substance that is incredibly difficult to regulate and make money off of , since people could easily just grow their own .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n7pb",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 5,
+                    "body": [
+                        "Because it 's a mind altering substance that is incredibly difficult to regulate and make money off of , since people could easily just grow their own .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n8w8",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 3,
+                    "body": [
+                        "The DuPont corporation was having their textile profits cut into because people were selling things made of hemp , which is a close relative of marijuana . Because of this , they used their power and influence to convince the government to outlaw marijuana , because then they could use the excuse that hemp was close enough to it to be outlawed as well .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nnbr",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 3,
+                    "body": [
+                        "It all started when William Randolf Hearst ran a smear campaign against Marijuana in the 1930s because hemp was affecting his timber industry , being a cheaper way to make paper . This is the reason it was originally outlawed in 1937 . The illegality eventually \" upgraded , \" if you will , when the United States government classified Cannabis as a Schedule I drug under the Controlled Substances Act of 1970 . Recently proposed legislation was up for debate . Before it could be discussed big pharmacy lobbyist paid gave the guy submitting the bill like 40k ( estimated ) to withdraw it . Apparently that 's how much our freedom is worth .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n8w8",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 3,
+                    "body": [
+                        "The DuPont corporation was having their textile profits cut into because people were selling things made of hemp , which is a close relative of marijuana . Because of this , they used their power and influence to convince the government to outlaw marijuana , because then they could use the excuse that hemp was close enough to it to be outlawed as well .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nnbr",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 3,
+                    "body": [
+                        "It all started when William Randolf Hearst ran a smear campaign against Marijuana in the 1930s because hemp was affecting his timber industry , being a cheaper way to make paper . This is the reason it was originally outlawed in 1937 . The illegality eventually \" upgraded , \" if you will , when the United States government classified Cannabis as a Schedule I drug under the Controlled Substances Act of 1970 . Recently proposed legislation was up for debate . Before it could be discussed big pharmacy lobbyist paid gave the guy submitting the bill like 40k ( estimated ) to withdraw it . Apparently that 's how much our freedom is worth .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28o226",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 2,
+                    "body": [
+                        "A reason it continues to be outlawed is the huge economic impact it would have . Who would start smoking cigarettes when you could smoke pot ? Who would drink tons of beer and suffer a hangover the next morning ? Some people still would , but it would take a huge chunk out of many powerful industry 's market shares . And this huge industries have huge representation in Washington .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28obxf",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 2,
+                    "body": [
+                        "I think the main reason for the drug still being illegal , and other , more harmful drugs ( alcohol , perscription drugs ect ) are legal is because of the taxing . It 's ALOT harder for you to make / grow / sell alcohol , perscription drugs and tobacco ( yes , you can grow tobacco , but it wo n't have the additives you are now addicted too ) Where as I can grow weed in my backyard , sell it , all tax free , So if they make it illegal people are more scared to buy it from new sources , and sources ( dealers ) are more likely to be narked on . Until they can figure out a fool proof plan to be able to market it , sell it , and obviously tax it , it will never be legal . Governments never legalize anything without making sure they get their cut first ...",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28o226",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 2,
+                    "body": [
+                        "A reason it continues to be outlawed is the huge economic impact it would have . Who would start smoking cigarettes when you could smoke pot ? Who would drink tons of beer and suffer a hangover the next morning ? Some people still would , but it would take a huge chunk out of many powerful industry 's market shares . And this huge industries have huge representation in Washington .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28obxf",
+                    "link_id": "t3_j2p57",
+                    "parent_id": "t3_j2p57",
+                    "score": 2,
+                    "body": [
+                        "I think the main reason for the drug still being illegal , and other , more harmful drugs ( alcohol , perscription drugs ect ) are legal is because of the taxing . It 's ALOT harder for you to make / grow / sell alcohol , perscription drugs and tobacco ( yes , you can grow tobacco , but it wo n't have the additives you are now addicted too ) Where as I can grow weed in my backyard , sell it , all tax free , So if they make it illegal people are more scared to buy it from new sources , and sources ( dealers ) are more likely to be narked on . Until they can figure out a fool proof plan to be able to market it , sell it , and obviously tax it , it will never be legal . Governments never legalize anything without making sure they get their cut first ...",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2p4w",
+        {
+            "id": "j2p4w",
+            "score": 18,
+            "url": "http://www.reddit.com/r/explainlikeimfive",
+            "title": [
+                "The subreddit you are looking for",
+                []
+            ],
+            "selftext": [
+                "",
+                []
+            ]
+        }
+    ],
+    [
+        "j2p33",
+        {
+            "id": "j2p33",
+            "score": 2,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2p33/ubuntu_eli5/",
+            "title": [
+                "Ubuntu , ELI5",
+                []
+            ],
+            "selftext": [
+                "I know it 's a Linux kernel . That 's about all . Is it better then Windows 7 or OS X ? Pro 's , Con 's if you 'd please . Thanks a lot",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n4zo",
+                    "link_id": "t3_j2p33",
+                    "parent_id": "t3_j2p33",
+                    "score": 3,
+                    "body": [
+                        "First off , it 's a Linux distribution based on the Linux kernel . There are lots of Linux distributions . But as for being better or worse than OS X and Windows , it 's mostly your opinion . The biggest pro for most is that it 's free and always will be , for every update . Many also consider it the best distribution for Linux beginners . If you 've never used Linux before , it 's very good and pretty easy to use . Like I said , a lot of it is about personal opinion . Some swear by Ubuntu , some would n't use it if their life depended on it .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n4zo",
+                    "link_id": "t3_j2p33",
+                    "parent_id": "t3_j2p33",
+                    "score": 3,
+                    "body": [
+                        "First off , it 's a Linux distribution based on the Linux kernel . There are lots of Linux distributions . But as for being better or worse than OS X and Windows , it 's mostly your opinion . The biggest pro for most is that it 's free and always will be , for every update . Many also consider it the best distribution for Linux beginners . If you 've never used Linux before , it 's very good and pretty easy to use . Like I said , a lot of it is about personal opinion . Some swear by Ubuntu , some would n't use it if their life depended on it .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n33c",
+                    "link_id": "t3_j2p33",
+                    "parent_id": "t3_j2p33",
+                    "score": 2,
+                    "body": [
+                        "Pros and cons depend on what you want to use the computer for .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n43t",
+                    "link_id": "t3_j2p33",
+                    "parent_id": "t3_j2p33",
+                    "score": 2,
+                    "body": [
+                        "It 's simply different then other operating systems . It 's main features are that it is free , faster then most other operating systems and easier to use then most other Linux systems . But it 's still trickier to use then most Windows and Macs . --Sent via Ubuntu--",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n33c",
+                    "link_id": "t3_j2p33",
+                    "parent_id": "t3_j2p33",
+                    "score": 2,
+                    "body": [
+                        "Pros and cons depend on what you want to use the computer for .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n43t",
+                    "link_id": "t3_j2p33",
+                    "parent_id": "t3_j2p33",
+                    "score": 2,
+                    "body": [
+                        "It 's simply different then other operating systems . It 's main features are that it is free , faster then most other operating systems and easier to use then most other Linux systems . But it 's still trickier to use then most Windows and Macs . --Sent via Ubuntu--",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2p0t",
+        {
+            "id": "j2p0t",
+            "score": 8,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2p0t/black_holes_and_wormholes_how_do_they_work/",
+            "title": [
+                "Black holes and wormholes - how do they work ?",
+                []
+            ],
+            "selftext": [
+                "When \" stuff \" ( anything really ) travels in to black hole - what happens to it ? Where does it remain ? Also - how wormholes work ? Could they be , for example , used for intergalactic transportation ?",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28nhsp",
+                    "link_id": "t3_j2p0t",
+                    "parent_id": "t3_j2p0t",
+                    "score": 5,
+                    "body": [
+                        "Every object in space has a gravitational field , generating a power that pulls objects towards it . The more mass the object has , the stronger it pulls objects towards it . More mass is typically associated with larger physical size . Imagine though , that something with very high mass and an extremely strong pull is actually physically small . This happens because the object is just so heavy , that it keeps collapsing into itself . Black holes are named so because nothing , not even light , can escape once it has passed the event horizon ( point of no return ) .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nhsp",
+                    "link_id": "t3_j2p0t",
+                    "parent_id": "t3_j2p0t",
+                    "score": 5,
+                    "body": [
+                        "Every object in space has a gravitational field , generating a power that pulls objects towards it . The more mass the object has , the stronger it pulls objects towards it . More mass is typically associated with larger physical size . Imagine though , that something with very high mass and an extremely strong pull is actually physically small . This happens because the object is just so heavy , that it keeps collapsing into itself . Black holes are named so because nothing , not even light , can escape once it has passed the event horizon ( point of no return ) .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28pnf8",
+                    "link_id": "t3_j2p0t",
+                    "parent_id": "t3_j2p0t",
+                    "score": 2,
+                    "body": [
+                        "This is a qustion for r / askscience",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28pnf8",
+                    "link_id": "t3_j2p0t",
+                    "parent_id": "t3_j2p0t",
+                    "score": 2,
+                    "body": [
+                        "This is a qustion for r / askscience",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2p0i",
+        {
+            "id": "j2p0i",
+            "score": 33,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2p0i/li5_what_exactly_is_bandwidth_and_how_does_an_isp/",
+            "title": [
+                "LI5 : What exactly is bandwidth and how does an ISP make more of it ?",
+                []
+            ],
+            "selftext": [
+                "",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n2qx",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 13,
+                    "body": [
+                        "I 'll take this . Edit incoming . EDIT : If you remember the days of dial - up , your computer was much slower at downloading things from the internet . Much longer ago , information was exchanged slower than that , such as in communications in wires under the ocean . We communicate digitally with lots of 1s and 0s - on settings and off settings - and bandwidth is how many 1s and 0s we can send at a time through the connection . Higher frequencies can carry more stuff , just like how TV signals can carry more information than radio signals , or how FM ( which is a higher frequency ) carries stereo sound instead of AM 's Mono . So you can get more bandwidth to your house with a better cable , but you also need a high quality connection , or else more of your 1s and 0s will be spent doing error checks to make sure that the rest of your signals are getting through . More errors = less speed . Your ISP has to get all of that data ( and there 's a lot of it ) into the internet . That can be tricky if there are distances involved , and it often means laying fiberoptic wires , which carries a large investment cost . To get that money back , the ISP charges more for people that use more bandwidth .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n2qx",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 13,
+                    "body": [
+                        "I 'll take this . Edit incoming . EDIT : If you remember the days of dial - up , your computer was much slower at downloading things from the internet . Much longer ago , information was exchanged slower than that , such as in communications in wires under the ocean . We communicate digitally with lots of 1s and 0s - on settings and off settings - and bandwidth is how many 1s and 0s we can send at a time through the connection . Higher frequencies can carry more stuff , just like how TV signals can carry more information than radio signals , or how FM ( which is a higher frequency ) carries stereo sound instead of AM 's Mono . So you can get more bandwidth to your house with a better cable , but you also need a high quality connection , or else more of your 1s and 0s will be spent doing error checks to make sure that the rest of your signals are getting through . More errors = less speed . Your ISP has to get all of that data ( and there 's a lot of it ) into the internet . That can be tricky if there are distances involved , and it often means laying fiberoptic wires , which carries a large investment cost . To get that money back , the ISP charges more for people that use more bandwidth .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28ndoq",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 5,
+                    "body": [
+                        "I 'm not sure if I 'm following what falsehood is saying , but this is how I understand it : Let 's take a marble , and say it represents an arbitrary amount of data . These marbles are stored in other computers and are sent to your computer via pipes of set diameter that are shared by all other computers , which represent the wires and fibre optic lines that are in between you and the computer you are requesting data ( marbles ) from . Because these pipes are of set diameter , only a certain amount of marbles can go through them at a time , so if more people are using the pipes , the marbles will take longer to get to you . Your bandwidth would be how many marbles travel through the pipes and to you in a given amount of time ( A month in most cases ) . If the people who maintain the pipes detect that you are always requesting marbles and are thus clogging the pipes with them , hindering other people , they probably wo n't be happy and will try to restrict how many marbles you can get ( This is basically what bandwidth caps are ) . If they notice that the pipes are generally clogging a lot , and it 's not just attributed to one person , then they can increase their \" bandwidth \" by installing pipes with a larger diameter .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28ndoq",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 5,
+                    "body": [
+                        "I 'm not sure if I 'm following what falsehood is saying , but this is how I understand it : Let 's take a marble , and say it represents an arbitrary amount of data . These marbles are stored in other computers and are sent to your computer via pipes of set diameter that are shared by all other computers , which represent the wires and fibre optic lines that are in between you and the computer you are requesting data ( marbles ) from . Because these pipes are of set diameter , only a certain amount of marbles can go through them at a time , so if more people are using the pipes , the marbles will take longer to get to you . Your bandwidth would be how many marbles travel through the pipes and to you in a given amount of time ( A month in most cases ) . If the people who maintain the pipes detect that you are always requesting marbles and are thus clogging the pipes with them , hindering other people , they probably wo n't be happy and will try to restrict how many marbles you can get ( This is basically what bandwidth caps are ) . If they notice that the pipes are generally clogging a lot , and it 's not just attributed to one person , then they can increase their \" bandwidth \" by installing pipes with a larger diameter .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28o5iw",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 3,
+                    "body": [
+                        "Bandwith is the rate of transmitted information per time . An ISP can \" make \" , or rather provide , more bandwith to all of it 's users by establishing more and faster connections to other ISPs or carriers ( the ISPs for ISPs ) . Bandwith is usually limited by the transmitting hardware and the transmitting medium , like a phone can not be used to transmit an opera in high fidelity , a DSL connection is slower than a fibre optical connection . The same goes for hardware that is used to route the flow of information at your home ( the DSL router ) and at the ISP ( the backbone router ) .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28o5iw",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 3,
+                    "body": [
+                        "Bandwith is the rate of transmitted information per time . An ISP can \" make \" , or rather provide , more bandwith to all of it 's users by establishing more and faster connections to other ISPs or carriers ( the ISPs for ISPs ) . Bandwith is usually limited by the transmitting hardware and the transmitting medium , like a phone can not be used to transmit an opera in high fidelity , a DSL connection is slower than a fibre optical connection . The same goes for hardware that is used to route the flow of information at your home ( the DSL router ) and at the ISP ( the backbone router ) .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nnxv",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 2,
+                    "body": [
+                        "Imagine a water pipe . The volume of water coming out the end per second is bandwidth . More bandwidth ? Bigger pipe",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nriw",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 2,
+                    "body": [
+                        "These are all really good explanations , I am just going to add one thing . You think of bandwidth in terms of speed and not volume . How much bandwidth you have is how fast the data is traveling to and from you . The ISPs can not ' make more ' bandwidth because it is not a pool of data they are drawing from , but they can get the data to you faster depending on how they deliver it . So if you take screwthat4u 's analogy of water , the bandwidth is a measurement of is how fast the water is traveling , not the water itself . The amount of bandwidth you have is limited by the type of connection it is coming through . A dial up line is like pouring water though a straw where as a fiber optic cable is like water moving though house house plumbing .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nnxv",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 2,
+                    "body": [
+                        "Imagine a water pipe . The volume of water coming out the end per second is bandwidth . More bandwidth ? Bigger pipe",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nriw",
+                    "link_id": "t3_j2p0i",
+                    "parent_id": "t3_j2p0i",
+                    "score": 2,
+                    "body": [
+                        "These are all really good explanations , I am just going to add one thing . You think of bandwidth in terms of speed and not volume . How much bandwidth you have is how fast the data is traveling to and from you . The ISPs can not ' make more ' bandwidth because it is not a pool of data they are drawing from , but they can get the data to you faster depending on how they deliver it . So if you take screwthat4u 's analogy of water , the bandwidth is a measurement of is how fast the water is traveling , not the water itself . The amount of bandwidth you have is limited by the type of connection it is coming through . A dial up line is like pouring water though a straw where as a fiber optic cable is like water moving though house house plumbing .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2ozz",
+        {
+            "id": "j2ozz",
+            "score": 7,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2ozz/can_someone_explain_venture_capital_funding_like/",
+            "title": [
+                "Can someone explain Venture Capital funding like I 'm five ?",
+                []
+            ],
+            "selftext": [
+                "I actually went to a VC meeting once with the engineering team during my internship with a tech incubator . We developed a program ( on mobile devices ) that utilized cloud storage ( very similar to URL_0 / Dropbox ) . We went just so the VC people got to know the team that was working ' for ' them . Some Questions : 1 . Where does the money come from ? 2 . Do you eventually separate ties from them ? 3 . What are the different \" series \" / \" stages \" of VC ?",
+                [
+                    "Box.net"
+                ]
+            ],
+            "comments": [
+                {
+                    "id": "c28n4go",
+                    "link_id": "t3_j2ozz",
+                    "parent_id": "t3_j2ozz",
+                    "score": 2,
+                    "body": [
+                        "I can help you out with 1 & 2 , someone with more experience in the area will have to talk about VC stages , but that is largely a question of different levels of funding for different conditions / periods . 1 . All sorts of sources . Institutional clients , private investors , other funds 2 . Depends on the terms of their contract , the outcome of the start - up company ( if it fails you will obviously sever ties with them ) , and the amount they fund . In many cases no , and most VC companies impose strict terms for companies they are invested in ; there is sometimes quite a bit of money at stake .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n8cw",
+                    "link_id": "t3_j2ozz",
+                    "parent_id": "t3_j2ozz",
+                    "score": 2,
+                    "body": [
+                        "In a nutshell , a person with a lot of money ( either that they have personally , as part of a company , or as a representative of a pool ) gives a new company money in exchange for owning a part of the new company . As a company grows and becomes successful , the value of the part of the company owned by a VC increases . The VC is essentially ' betting ' that the value of the part of the company will grow by more than the amount of money they gave to the company in the first place .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nr3o",
+                    "link_id": "t3_j2ozz",
+                    "parent_id": "t3_j2ozz",
+                    "score": 2,
+                    "body": [
+                        "It 's basically gambling . Investors invest in multiple start - ups knowing that a significant portion will fail , but hopefully the one or few that succeed makes enough money to make a significant profit overall . Basically lots of high risk high reward investments",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28ntra",
+                    "link_id": "t3_j2ozz",
+                    "parent_id": "t3_j2ozz",
+                    "score": 2,
+                    "body": [
+                        "1 . With smaller VCs the money may come from an individual that runs the fund with a fortune they 've amassed from some other business , but in most cases it will come from \" limited partners \" , these are the VC 's investors . These will be organizations like pension funds who treat VCs as the \" high risk \" part of their investment portfolio . 2 . Depends . They will own part of your company , and while they do you 're tied to them . They may sell that part as part of a subsequent investment to another investor , or to the public after you IPO . Otherwise , you 're stuck with them until you sell the company . 3 . They are : * Angel round - this is typically less than $ 1 M , and the investor will typically be a wealthy individual who likes your business for some reason . VCs occasionally do investments like this , in which case its referred to as a \" seed \" round . At this point your company will be valued at less than $ 5M. * A round - this is typically $ 1M-$6 M , and will be from a VC . At this stage your company will typically be valued between $ 5 M and $ 20M. * B round - This is typically greater than $ 6 M and less than $ 20M. After that C , D , E rounds all kind of blur together . The reality is that since the founders dilute ( own less of the company ) after each round , if you 're doing a D round or later , something is probably wrong . * disclaimer * These numbers are based on my personal experience as an entrepreneur , a VC may be able to provide more accurate answers . There really are n't any formal definitions of these things that I 'm aware of .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n4go",
+                    "link_id": "t3_j2ozz",
+                    "parent_id": "t3_j2ozz",
+                    "score": 2,
+                    "body": [
+                        "I can help you out with 1 & 2 , someone with more experience in the area will have to talk about VC stages , but that is largely a question of different levels of funding for different conditions / periods . 1 . All sorts of sources . Institutional clients , private investors , other funds 2 . Depends on the terms of their contract , the outcome of the start - up company ( if it fails you will obviously sever ties with them ) , and the amount they fund . In many cases no , and most VC companies impose strict terms for companies they are invested in ; there is sometimes quite a bit of money at stake .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n8cw",
+                    "link_id": "t3_j2ozz",
+                    "parent_id": "t3_j2ozz",
+                    "score": 2,
+                    "body": [
+                        "In a nutshell , a person with a lot of money ( either that they have personally , as part of a company , or as a representative of a pool ) gives a new company money in exchange for owning a part of the new company . As a company grows and becomes successful , the value of the part of the company owned by a VC increases . The VC is essentially ' betting ' that the value of the part of the company will grow by more than the amount of money they gave to the company in the first place .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nr3o",
+                    "link_id": "t3_j2ozz",
+                    "parent_id": "t3_j2ozz",
+                    "score": 2,
+                    "body": [
+                        "It 's basically gambling . Investors invest in multiple start - ups knowing that a significant portion will fail , but hopefully the one or few that succeed makes enough money to make a significant profit overall . Basically lots of high risk high reward investments",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28ntra",
+                    "link_id": "t3_j2ozz",
+                    "parent_id": "t3_j2ozz",
+                    "score": 2,
+                    "body": [
+                        "1 . With smaller VCs the money may come from an individual that runs the fund with a fortune they 've amassed from some other business , but in most cases it will come from \" limited partners \" , these are the VC 's investors . These will be organizations like pension funds who treat VCs as the \" high risk \" part of their investment portfolio . 2 . Depends . They will own part of your company , and while they do you 're tied to them . They may sell that part as part of a subsequent investment to another investor , or to the public after you IPO . Otherwise , you 're stuck with them until you sell the company . 3 . They are : * Angel round - this is typically less than $ 1 M , and the investor will typically be a wealthy individual who likes your business for some reason . VCs occasionally do investments like this , in which case its referred to as a \" seed \" round . At this point your company will be valued at less than $ 5M. * A round - this is typically $ 1M-$6 M , and will be from a VC . At this stage your company will typically be valued between $ 5 M and $ 20M. * B round - This is typically greater than $ 6 M and less than $ 20M. After that C , D , E rounds all kind of blur together . The reality is that since the founders dilute ( own less of the company ) after each round , if you 're doing a D round or later , something is probably wrong . * disclaimer * These numbers are based on my personal experience as an entrepreneur , a VC may be able to provide more accurate answers . There really are n't any formal definitions of these things that I 'm aware of .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2ovv",
+        {
+            "id": "j2ovv",
+            "score": 34,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2ovv/can_someone_explain_to_me_like_im_five_how/",
+            "title": [
+                "Can someone explain to me like I 'm five how torrents and seeding work ?",
+                []
+            ],
+            "selftext": [
+                "",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n24t",
+                    "link_id": "t3_j2ovv",
+                    "parent_id": "t3_j2ovv",
+                    "score": 26,
+                    "body": [
+                        "When you download a file directly , someone has all the data in it and sends it to you . Its like getting a box of Lego from the store . When you torrent the file , the file is split up into many tiny pieces . You then get pieces from anyone who has pieces , and give copies of the pieces you have to anyone who needs them . A seeder is someone who has all the pieces of the file and only ever gives people pieces of the file . EDIT : I thought of a better Lego metaphor . Suppose Billy makes a really cool Lego house , and you want to copy it . So you look at it , and make your own Lego house exactly like it . This is basically how downloading files works . A problem happens when a lot of people want to copy Billy 's house . It gets crowded , and people ca n't see well , and ca n't copy it quickly . So someone had the idea that since Susan has part of the house already done , why not copy that part from Susan ? Torrenting is a way to decide who copies what from who in order to have everyone copy the Lego house as quickly as possible . Seeders are people who have the entire house copied already and are sharing it with others , and leechers do n't have the entire house copied , but share the parts they do have .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n24t",
+                    "link_id": "t3_j2ovv",
+                    "parent_id": "t3_j2ovv",
+                    "score": 26,
+                    "body": [
+                        "When you download a file directly , someone has all the data in it and sends it to you . Its like getting a box of Lego from the store . When you torrent the file , the file is split up into many tiny pieces . You then get pieces from anyone who has pieces , and give copies of the pieces you have to anyone who needs them . A seeder is someone who has all the pieces of the file and only ever gives people pieces of the file . EDIT : I thought of a better Lego metaphor . Suppose Billy makes a really cool Lego house , and you want to copy it . So you look at it , and make your own Lego house exactly like it . This is basically how downloading files works . A problem happens when a lot of people want to copy Billy 's house . It gets crowded , and people ca n't see well , and ca n't copy it quickly . So someone had the idea that since Susan has part of the house already done , why not copy that part from Susan ? Torrenting is a way to decide who copies what from who in order to have everyone copy the Lego house as quickly as possible . Seeders are people who have the entire house copied already and are sharing it with others , and leechers do n't have the entire house copied , but share the parts they do have .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2otb",
+        {
+            "id": "j2otb",
+            "score": 5,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2otb/eli5_how_raising_taxes_helps_the_economy/",
+            "title": [
+                "ELI5 : How raising taxes helps the economy ?",
+                []
+            ],
+            "selftext": [
+                "",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28n8sg",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 3,
+                    "body": [
+                        "Slow down guys , he 's just a troll .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n8sg",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 3,
+                    "body": [
+                        "Slow down guys , he 's just a troll .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n16u",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "I would n't say it helps the economy directly , it just generates more revenue for the government , and they are allowed to spend it however they like . They could invest it themselves on programs like NASA , or they can spend a heck of a lot more in a pointless war .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n242",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "First you need to understand that the economy goes through different phases , basically good - times and bad - times . To prevent the bad - times from being really bad the government will spend money so that people can keep working to make money and feed their families . So during good - times , the government raises taxes because people can afford it and then there will be money to spend in bad - times .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n2eb",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "It can harm the economy by requiring people to pay more of their income to the government , meaning they spend less on everything else . However , it can be planned out to help the economy through several means . Some basic ones are : 1 . Funding government agencies so they can hire more people . This creates jobs , lowers unemployment , and means more people spending money even if the average person spends a little less . It also means fewer people needing government help such as unemployment , welfare , food stamps , and so on . 2 . Increasing government spending , usually on private ( non - government ) companies ' products . This makes those companies more stable financially and increases their profits , theoretically increasing their likelihood to hire people to increase production , then doing all the benefits # 1 did . 3 . Allowing the government to pay off its debts , which maintains its credit rating ( the trust other countries have in its ability to pay off loans ) , so the currency does n't lower in value . If the currency 's value were to drop , international trade would be more expensive for people within the country . That would negatively affect any international company doing trade in that country , as well as result in higher costs for anything made with imported products , making a financial situation even more difficult .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n2m1",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "Nobody wants to raise taxes a whole lot on the lower and middle classes , but if the government makes the wealthiest Americans pay more in taxes , then they will have money to provide more services such as health care , welfare , and other programs intended to help out people who ca n't afford necessities . With more money , the government can also start federal program that create jobs . Edit : our current income taxes are actually extremely low compared to how they 've been in the past . URL_0 Under president Franklin D. Roosevelt the highest tax bracket was 94 %",
+                        [
+                            "http://en.wikipedia.org/wiki/Income_tax_in_the_United_States"
+                        ]
+                    ]
+                },
+                {
+                    "id": "c28n7pm",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "The government ( well , really * governments * ; federal , state , local ) employs a lot of people . There 's a lot of infrastructure in our nation that benefits us all as a whole . Sometimes we have permanent government employees who provide us services ( police , fire , schools , etc ) , and sometimes we hire contractors to get specific tasks done ( like pave roads , build bridges , or make bombs ) . The money that the government pays out to those people is then spent by those people at other businesses to buy food , goods , and services . The flow of money is what keeps our economy going . If the government decides it ca n't afford to pay for all of these people , it will stop . Those people will now be jobless and the money the government used to pay them is no longer flowing through the economy . If that money does n't get spent in other businesses , then those businesses have less money to spend on their employees , and a snowball effect happens as the economy gradually shrinks and unemployment grows . The reason why raising taxes can help is that it will take money from those who make a lot of it to pay for the services the government normally supplies , which in turn fuels the general economy . They can do this because there is a greater demand for government services than there is supply . Unlike the private sector , where overall there is greater supply than demand . So new jobs are n't getting created in the private sector because the economy is n't flowing . But there 's a great deal of demand from the public sector ( teachers , cops , road maintenance workers , etc ) , but we ( the government ) are refusing to invest in them because the economy is down . Why is that happening ? Likely because many people see the government as a giant business and think it should be run as such . And if you run a business and the economy slows down , you cut back . But the government is n't a business and in many ways behaves contrary to how a business would behave . That was the idea behind the stimulus : if the government spends money on the economy , it can help jump - start it with an influx of wealth . However , that requires a great deal of money , and since there is n't enough political support for raising taxes on the people with the most money , it forces us to borrow into further debt . And the fear of debt kept the stimulus relatively small , so it 's overall effect was limited . TL;DR - If taxes are raised , the government can fully fund its services without risking greater debt , which would put a lot of people back to work and put a lot of money back into the economy , which would in turn enable more private - sector jobs to be created .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n16u",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "I would n't say it helps the economy directly , it just generates more revenue for the government , and they are allowed to spend it however they like . They could invest it themselves on programs like NASA , or they can spend a heck of a lot more in a pointless war .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n242",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "First you need to understand that the economy goes through different phases , basically good - times and bad - times . To prevent the bad - times from being really bad the government will spend money so that people can keep working to make money and feed their families . So during good - times , the government raises taxes because people can afford it and then there will be money to spend in bad - times .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n2eb",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "It can harm the economy by requiring people to pay more of their income to the government , meaning they spend less on everything else . However , it can be planned out to help the economy through several means . Some basic ones are : 1 . Funding government agencies so they can hire more people . This creates jobs , lowers unemployment , and means more people spending money even if the average person spends a little less . It also means fewer people needing government help such as unemployment , welfare , food stamps , and so on . 2 . Increasing government spending , usually on private ( non - government ) companies ' products . This makes those companies more stable financially and increases their profits , theoretically increasing their likelihood to hire people to increase production , then doing all the benefits # 1 did . 3 . Allowing the government to pay off its debts , which maintains its credit rating ( the trust other countries have in its ability to pay off loans ) , so the currency does n't lower in value . If the currency 's value were to drop , international trade would be more expensive for people within the country . That would negatively affect any international company doing trade in that country , as well as result in higher costs for anything made with imported products , making a financial situation even more difficult .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28n2m1",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "Nobody wants to raise taxes a whole lot on the lower and middle classes , but if the government makes the wealthiest Americans pay more in taxes , then they will have money to provide more services such as health care , welfare , and other programs intended to help out people who ca n't afford necessities . With more money , the government can also start federal program that create jobs . Edit : our current income taxes are actually extremely low compared to how they 've been in the past . URL_0 Under president Franklin D. Roosevelt the highest tax bracket was 94 %",
+                        [
+                            "http://en.wikipedia.org/wiki/Income_tax_in_the_United_States"
+                        ]
+                    ]
+                },
+                {
+                    "id": "c28n7pm",
+                    "link_id": "t3_j2otb",
+                    "parent_id": "t3_j2otb",
+                    "score": 2,
+                    "body": [
+                        "The government ( well , really * governments * ; federal , state , local ) employs a lot of people . There 's a lot of infrastructure in our nation that benefits us all as a whole . Sometimes we have permanent government employees who provide us services ( police , fire , schools , etc ) , and sometimes we hire contractors to get specific tasks done ( like pave roads , build bridges , or make bombs ) . The money that the government pays out to those people is then spent by those people at other businesses to buy food , goods , and services . The flow of money is what keeps our economy going . If the government decides it ca n't afford to pay for all of these people , it will stop . Those people will now be jobless and the money the government used to pay them is no longer flowing through the economy . If that money does n't get spent in other businesses , then those businesses have less money to spend on their employees , and a snowball effect happens as the economy gradually shrinks and unemployment grows . The reason why raising taxes can help is that it will take money from those who make a lot of it to pay for the services the government normally supplies , which in turn fuels the general economy . They can do this because there is a greater demand for government services than there is supply . Unlike the private sector , where overall there is greater supply than demand . So new jobs are n't getting created in the private sector because the economy is n't flowing . But there 's a great deal of demand from the public sector ( teachers , cops , road maintenance workers , etc ) , but we ( the government ) are refusing to invest in them because the economy is down . Why is that happening ? Likely because many people see the government as a giant business and think it should be run as such . And if you run a business and the economy slows down , you cut back . But the government is n't a business and in many ways behaves contrary to how a business would behave . That was the idea behind the stimulus : if the government spends money on the economy , it can help jump - start it with an influx of wealth . However , that requires a great deal of money , and since there is n't enough political support for raising taxes on the people with the most money , it forces us to borrow into further debt . And the fear of debt kept the stimulus relatively small , so it 's overall effect was limited . TL;DR - If taxes are raised , the government can fully fund its services without risking greater debt , which would put a lot of people back to work and put a lot of money back into the economy , which would in turn enable more private - sector jobs to be created .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        "j2mod",
+        {
+            "id": "j2mod",
+            "score": 31,
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/j2mod/what_is_a_buffer_overflow_and_how_is_it_used_to/",
+            "title": [
+                "What is a buffer overflow , and how is it used to exploit programs ?",
+                []
+            ],
+            "selftext": [
+                "",
+                []
+            ],
+            "comments": [
+                {
+                    "id": "c28ml8a",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 54,
+                    "body": [
+                        "Imagine a choose - your - own - adventure book ( i.e. \" If you choose to go left , turn to page 10 . If you go right , turn to page 20 ) . You have sneakily inserted a page 30 which tells the reader to give you all your money . At the start of the book there is a blank page where the reader can make notes . That 's your buffer . If you write in a bunch of text on that page , and the reader is too dumb to notice it 's happened , you could make your text overflow onto page one , and overwrite the text already there . So now , page one says \" If you choose to go left , turn to page 30 . If you choose to go right , turn to page 30 \" . So the reader turns to page 30 , and follows the instruction to give you all their money . You have overflowed the buffer to make the reader go to a page of your choosing rather than the legitimate pages . The book is your program , the blank page is the buffer , and page 30 is the malicious code . The text you dumped onto the blank page is your exploit code .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28ml8a",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 54,
+                    "body": [
+                        "Imagine a choose - your - own - adventure book ( i.e. \" If you choose to go left , turn to page 10 . If you go right , turn to page 20 ) . You have sneakily inserted a page 30 which tells the reader to give you all your money . At the start of the book there is a blank page where the reader can make notes . That 's your buffer . If you write in a bunch of text on that page , and the reader is too dumb to notice it 's happened , you could make your text overflow onto page one , and overwrite the text already there . So now , page one says \" If you choose to go left , turn to page 30 . If you choose to go right , turn to page 30 \" . So the reader turns to page 30 , and follows the instruction to give you all their money . You have overflowed the buffer to make the reader go to a page of your choosing rather than the legitimate pages . The book is your program , the blank page is the buffer , and page 30 is the malicious code . The text you dumped onto the blank page is your exploit code .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28ml13",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 17,
+                    "body": [
+                        "When you write a program , your program uses a certain amount of memory . That memory contains two things : The actual program , and the ' data ' area . The program is a bunch of machine - language instructions that tell the computer what to actually do . The data area is where the result of calculations performed by the instructions are stored . When you start your program , the operating system tells it \" OK , you 're allowed to have from memory address 1 to memory address 10 for your program . Keep in mind though , that from 1 to 5 is your instruction area , and from 6 to 10 is the only place you 're allowed to write stuff . \" Now lets say a hacker figures out that instead of writing to memory at addresses 6 to 10 , he can write to memory at address 5 . When the program is running and executes the instructions at address 5 , it will now execute the code that the hacker has put there , instead of the ' safe ' instructions that used to be there . This code could do anything -- including give the hacker superuser privileges on the system .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28ml13",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 17,
+                    "body": [
+                        "When you write a program , your program uses a certain amount of memory . That memory contains two things : The actual program , and the ' data ' area . The program is a bunch of machine - language instructions that tell the computer what to actually do . The data area is where the result of calculations performed by the instructions are stored . When you start your program , the operating system tells it \" OK , you 're allowed to have from memory address 1 to memory address 10 for your program . Keep in mind though , that from 1 to 5 is your instruction area , and from 6 to 10 is the only place you 're allowed to write stuff . \" Now lets say a hacker figures out that instead of writing to memory at addresses 6 to 10 , he can write to memory at address 5 . When the program is running and executes the instructions at address 5 , it will now execute the code that the hacker has put there , instead of the ' safe ' instructions that used to be there . This code could do anything -- including give the hacker superuser privileges on the system .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28mm0h",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 8,
+                    "body": [
+                        "When you put some information into a computer , that goes into a slot of space in the computer 's memory . Jobs that the computer has to do are also in it 's memory . If you put too much information into a computer , and the computer does n't check for this , then the extra information can spill over into a place where a job is . If that information looks like a job , the computer will do the new job , thinking it 's the old job . If you can make that happen , you can make the computer do whatever you like . And if you 're a bad person , you can make it do bad things .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nih0",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 8,
+                    "body": [
+                        "Imagine a prison with 10 prison cells . These 10 cells are lined up one after the other . Directly after the 10th cell is the warden 's office . In this prison there is a guard . The guard 's job is to receive prisoners and put them each in a cell . Only one prisoner per cell is allowed . If the guard is given 3 prisoners , the guard will put prisoner # 1 into cell # 1 , prisoner # 2 into cell # 2 , and prisoner # 3 into cell # 3 . This guard is pretty dumb and does n't think for himself at all . All he ever does is open doors and put people in . If this guard is given 11 prisoners , he will go down the line and put each one in a cell . After the guard puts the 10th prisoner into the 10th and final cell , he does n't know any better and will open the eleventh door in the prison and put the 11th prisoner into the warden 's office . This 11th prisoner can now start giving orders because everyone in the prison thinks he is the warden . The prison is a computer . The prisoners are outside code . The prison cells are ' data ' memory units . The warden 's office is ' executable ' memory units . Under normal operation , outside code ( prisoner ) is not allowed to independently execute commands . But if outside code ( prisoner ) is somehow incorrectly stored into executable memory ( the warden 's office ) due to an overflow of outside code ( prisoners ) then now the computer ( prison ) will let them do whatever they want , including bypass security measures ( release all prisoners ) .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28mm0h",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 8,
+                    "body": [
+                        "When you put some information into a computer , that goes into a slot of space in the computer 's memory . Jobs that the computer has to do are also in it 's memory . If you put too much information into a computer , and the computer does n't check for this , then the extra information can spill over into a place where a job is . If that information looks like a job , the computer will do the new job , thinking it 's the old job . If you can make that happen , you can make the computer do whatever you like . And if you 're a bad person , you can make it do bad things .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28nih0",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 8,
+                    "body": [
+                        "Imagine a prison with 10 prison cells . These 10 cells are lined up one after the other . Directly after the 10th cell is the warden 's office . In this prison there is a guard . The guard 's job is to receive prisoners and put them each in a cell . Only one prisoner per cell is allowed . If the guard is given 3 prisoners , the guard will put prisoner # 1 into cell # 1 , prisoner # 2 into cell # 2 , and prisoner # 3 into cell # 3 . This guard is pretty dumb and does n't think for himself at all . All he ever does is open doors and put people in . If this guard is given 11 prisoners , he will go down the line and put each one in a cell . After the guard puts the 10th prisoner into the 10th and final cell , he does n't know any better and will open the eleventh door in the prison and put the 11th prisoner into the warden 's office . This 11th prisoner can now start giving orders because everyone in the prison thinks he is the warden . The prison is a computer . The prisoners are outside code . The prison cells are ' data ' memory units . The warden 's office is ' executable ' memory units . Under normal operation , outside code ( prisoner ) is not allowed to independently execute commands . But if outside code ( prisoner ) is somehow incorrectly stored into executable memory ( the warden 's office ) due to an overflow of outside code ( prisoners ) then now the computer ( prison ) will let them do whatever they want , including bypass security measures ( release all prisoners ) .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28o7gl",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 4,
+                    "body": [
+                        "Really simplified : There 's a small space ( buffer ) in memory designated to hold user - inputted data . Let 's say it looks like this : [ code][start of buffer]________[other code ] The line is the buffer . Now , let 's say you set it up so this line holds * * 10 * * letters and/or numbers . 10 is its length . You then type in 7 letters / numbers when the program asks you for input . abc1234 _ _ _ is what the buffer looks like now . However , what happens if you write 15 , or 20 , or more letters / numbers ? If you have proper \" bounds checking \" ( which means that anything above the buffer length , in this case 10 characters , is ignored and thrown out ) , whatever you type will simply stop at 10 characters , or perhaps an error will pop up saying what you typed is too long . If you have not accounted for this though , something like this could happen : [ code][start of buffer]123456789a[bcdefghijklm other code ] The area in memory next to it is having part of itself overwritten with the \" overflowing \" buffer . A normal user may encounter this without having any knowledge of exploits or anything else . They may just type in something kind of long , and then the program either gives a strange error , or crashes . They have no idea what happened . That is generally how exploit hunters find these things . They write a script that automates this by typing really long and really weird things into all the inputs of a program , and then waits and sees if the program crashes . If it does crash when you type something long , but does n't crash when you type something short , that 's a sign that there may be a buffer overflow vulnerability . Now , if you 're smart , and if you mess around enough and write certain letters / numbers that overwrites what would normally happen and , when converted to bytes ( groups of 1 's and 0 's that your processor executes ) , makes the program do something like start up an interactive command prompt , you 've now taken control of the program , and if the program is running with high enough privilege rights on your computer , you 're able to take control of the person 's computer . Basically , if you write the right things , the program wo n't crash and instead will execute the malicious code you 've given it . It 's rather simple and easy to add a buffer length ( bounds ) check , though , so generally buffer overflows happen due to programmer 's being really forgetful or really incompetent . Newer languages often automatically add bounds checking so that buffer overflows are very rare or impossible to occur .",
+                        []
+                    ]
+                },
+                {
+                    "id": "c28o7gl",
+                    "link_id": "t3_j2mod",
+                    "parent_id": "t3_j2mod",
+                    "score": 4,
+                    "body": [
+                        "Really simplified : There 's a small space ( buffer ) in memory designated to hold user - inputted data . Let 's say it looks like this : [ code][start of buffer]________[other code ] The line is the buffer . Now , let 's say you set it up so this line holds * * 10 * * letters and/or numbers . 10 is its length . You then type in 7 letters / numbers when the program asks you for input . abc1234 _ _ _ is what the buffer looks like now . However , what happens if you write 15 , or 20 , or more letters / numbers ? If you have proper \" bounds checking \" ( which means that anything above the buffer length , in this case 10 characters , is ignored and thrown out ) , whatever you type will simply stop at 10 characters , or perhaps an error will pop up saying what you typed is too long . If you have not accounted for this though , something like this could happen : [ code][start of buffer]123456789a[bcdefghijklm other code ] The area in memory next to it is having part of itself overwritten with the \" overflowing \" buffer . A normal user may encounter this without having any knowledge of exploits or anything else . They may just type in something kind of long , and then the program either gives a strange error , or crashes . They have no idea what happened . That is generally how exploit hunters find these things . They write a script that automates this by typing really long and really weird things into all the inputs of a program , and then waits and sees if the program crashes . If it does crash when you type something long , but does n't crash when you type something short , that 's a sign that there may be a buffer overflow vulnerability . Now , if you 're smart , and if you mess around enough and write certain letters / numbers that overwrites what would normally happen and , when converted to bytes ( groups of 1 's and 0 's that your processor executes ) , makes the program do something like start up an interactive command prompt , you 've now taken control of the program , and if the program is running with high enough privilege rights on your computer , you 're able to take control of the person 's computer . Basically , if you write the right things , the program wo n't crash and instead will execute the malicious code you 've given it . It 's rather simple and easy to add a buffer length ( bounds ) check , though , so generally buffer overflows happen due to programmer 's being really forgetful or really incompetent . Newer languages often automatically add bounds checking so that buffer overflows are very rare or impossible to occur .",
+                        []
+                    ]
+                }
+            ]
+        }
+    ]
+]

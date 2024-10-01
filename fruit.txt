@@ -1,0 +1,10 @@
+fruit bananas 50
+bakery donuts 18
+fruit apples 50
+veggies squash 20
+fruit pears 50
+bakery cakes 4
+fruit pears 20
+bakery donuts 18
+fruit apples 10
+fruit bananas 25
